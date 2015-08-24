@@ -1,0 +1,6 @@
+---
+published: true
+title: Testing 1 ... 2 ...
+layout: post
+---
+How does this look? I'm using [tinypress](https://tinypress.co) and am curious if **markdown** will work for *formatting text*. 
