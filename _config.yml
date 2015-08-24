@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://teejayhanton.github.io
+title: teejayhanton
+tagline: Stuff and Junk
+description: Testing Tinypress and re-introducing myself to blogging.
+paginate: 10
